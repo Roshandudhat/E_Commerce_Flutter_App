@@ -5,11 +5,7 @@ import 'package:get_storage/get_storage.dart';
 class Preference {
   // Preference key
   static const String accessToken = "accessToken";
-  static const String userName = "userName";
-  static const String lastSelectedOrgName = "lastSelectedOrgName";
-  static const String lastSelectedOrgProfileUrl = "lastSelectedOrgProfileUrl";
-  static const String profileUrl = "profileUrl";
-  static const String isSelectedOrg = "isSelectedOrg";
+
 
   static final Preference _preference = Preference._internal();
 
