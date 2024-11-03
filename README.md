@@ -31,4 +31,4 @@ A simple e-commerce application built with Flutter, featuring a splash screen, l
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/e-commerce-app.git
+   git clone https://github.com/Roshandudhat/E_Commerce_Flutter_App.git
